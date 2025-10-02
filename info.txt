@@ -18,3 +18,8 @@ Available on:
   http://127.0.0.1:8000
   http://172.28.144.1:8000
 Hit CTRL-C to stop the server
+
+
+
+F:\Lua\backend>lua server.lua
+F:\Lua\frontend>http-server -p 8000
